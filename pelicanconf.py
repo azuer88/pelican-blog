@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Blue Cuenca'
-SITENAME = u'azuer88 blog'
+SITENAME = u'azuer88'
 SITEURL = ''
 
 PATH = 'content'
@@ -33,3 +33,5 @@ DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+THEME="../pelican-themes/Just-Read"
