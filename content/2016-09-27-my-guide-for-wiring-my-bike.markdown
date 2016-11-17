@@ -11,5 +11,5 @@ I have been planning to rewire my motorcycle.  This is the wiring diagram I have
 
 ![My Wiring diagram][wiring_diagram]
 
-[wiring_diagram]:{{ site.url }}/images/motorcycle-wiring.png
+[wiring_diagram]:{{ filename }}/images/motorcycle-wiring.png
 
